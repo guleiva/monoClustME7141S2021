@@ -1,0 +1,298 @@
+imdb_title_id,title,original_title,year,country,budget,avg_vote,votes,Comedy,Drama,Crime,Romance,Biography,History,Thriller,Action,Music,War,Adventure,Family,Fantasy,Horror,Mystery,Western,Sci-Fi,Animation,Musical,Sport,cluster,cluster2
+tt0166709,Memórias Póstumas de Brás Cubas,Memórias Póstumas de Brás Cubas,2001,"Portugal, Brazil",NA,6.8,714,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0171928,O Xangô de Baker Street,O Xangô de Baker Street,2001,"Brazil, Portugal",NA,6.7,1057,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0180837,Bossa Nova,Bossa Nova,2000,"Brazil, USA",NA,6.2,1711,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0189509,Estorvo,Estorvo,2000,"Brazil, Cuba, Portugal",NA,5.5,154,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0196811,Olga,Olga,2004,Brazil,BRL 12000000,6.6,3099,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt0200257,Parola e utopia,Palavra e Utopia,2000,"Spain, Italy, France, Brazil, Portugal",NA,6.6,356,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt0207163,Tolerância,Tolerância,2000,Brazil,NA,6.4,441,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,97,6
+tt0210971,A Selva,A Selva,2002,"Portugal, Brazil, Spain",EUR 3600000,5.5,271,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt0212897,Cronicamente Inviável,Cronicamente Inviável,2000,Brazil,NA,6.9,604,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0215715,O Dia da Caça,O Dia da Caça,2000,Brazil,NA,6,157,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt0222760,Até que a Vida nos Separe,Até que a Vida nos Separe,2000,Brazil,NA,6.5,114,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0237004,Através da Janela,Através da Janela,2000,Brazil,NA,5.6,106,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0241663,Lavoura Arcaica,Lavoura Arcaica,2001,Brazil,NA,7.7,1654,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0241683,O Casamento de Louise,O Casamento de Louise,2001,Brazil,NA,6.2,129,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0244504,Eu Tu Eles,Eu Tu Eles,2000,Brazil,$ 1900000,6.9,1724,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0245547,Villa-Lobos: Uma Vida de Paixão,Villa-Lobos: Uma Vida de Paixão,2000,Brazil,NA,6.2,257,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt0258413,Amélia,Amélia,2000,Brazil,NA,6.7,183,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0263124,Bicho de Sete Cabeças,Bicho de Sete Cabeças,2000,Brazil,$ 700000,7.7,4771,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0263156,Brava Gente Brasileira,Brava Gente Brasileira,2000,"Brazil, Portugal",NA,6.4,268,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,96,5
+tt0264079,Tainá: Uma Aventura na Amazônia,Tainá: Uma Aventura na Amazônia,2000,Brazil,BRL 4000000,5,325,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,9,2
+tt0264446,Bufo & Spallanzani,Bufo & Spallanzani,2001,Brazil,NA,6.6,376,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,8,1
+tt0271383,O Auto da Compadecida,O Auto da Compadecida,2000,Brazil,NA,8.6,11127,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,10
+tt0275915,Amores Possíveis,Amores Possíveis,2001,Brazil,NA,6.6,1038,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0277092,Latitude Zero,Latitude Zero,2001,Brazil,NA,6.5,136,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0279783,Domésticas: O Filme,Domésticas: O Filme,2001,Brazil,NA,7.1,1208,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0282496,Swarm - Minaccia dalla giungla,Flying Virus,2001,"USA, Brazil",NA,3.4,850,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,8,1
+tt0284345,Netto Perde Sua Alma,Netto Perde Sua Alma,2001,Brazil,$ 1300000,6.9,160,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,96,5
+tt0285683,El lugar donde estuvo el paraíso,El lugar donde estuvo el paraíso,2002,"Spain, Argentina, Germany, Brazil",NA,5,122,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0286320,Xuxa Popstar,Xuxa Popstar,2000,Brazil,BRL 2800000,1.5,732,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11,4
+tt0286560,Copacabana,Copacabana,2001,Brazil,NA,6.3,236,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0287625,A Partilha,A Partilha,2001,Brazil,NA,6.5,726,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0289944,Fear X,Fear X,2003,"Denmark, Canada, UK, Brazil",$ 6600000,6,6746,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,97,6
+tt0291003,Disperato aprile,Abril Despedaçado,2001,"Brazil, France, Switzerland",NA,7.6,6700,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0291959,O Grilo Feliz,O Grilo Feliz,2001,Brazil,NA,5.7,138,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,8,1
+tt0293007,Carandiru,Carandiru,2003,"Brazil, Argentina, Italy",BRL 12000000,7.6,17757,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0293086,Desmundo,Desmundo,2002,"Brazil, Portugal",NA,7,451,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0293484,A Paixão de Jacobina,A Paixão de Jacobina,2002,Brazil,NA,3.9,142,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0293495,Papà Rua Alguem 5555,"My Father, Rua Alguem 5555",2003,"Italy, Brazil, Hungary",NA,6.6,200,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,96,5
+tt0294349,Bellini e a Esfinge,Bellini e a Esfinge,2002,Brazil,NA,6.2,297,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt0294543,Xuxa e os Duendes,Xuxa e os Duendes,2001,Brazil,NA,1.9,537,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,10,3
+tt0297856,I giorni di Nietzsche a Torino,Dias de Nietzsche em Turim,2001,Brazil,NA,6.3,269,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0298786,Caramuru: A Invenção do Brasil,Caramuru: A Invenção do Brasil,2001,Brazil,NA,6.5,1342,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,11,4
+tt0303408,O Invasor,O Invasor,2001,Brazil,NA,7.1,1610,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,97,6
+tt0304513,Avassaladoras,Avassaladoras,2002,Brazil,NA,4.9,392,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0304906,Viva Sapato!,Viva Sapato!,2003,"Brazil, Spain",$ 1000000,4.7,103,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0312043,Xuxa e os Duendes 2: No Caminho das Fadas,Xuxa e os Duendes 2: No Caminho das Fadas,2002,Brazil,NA,1.8,470,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,9,2
+tt0312773,O Homem do Ano,O Homem do Ano,2003,Brazil,NA,7.2,2737,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0314009,Durval Discos,Durval Discos,2002,Brazil,NA,7,992,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0317248,City of God,Cidade de Deus,2002,"Brazil, France, Germany",BRL 3300000,8.6,685856,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0317887,Madame Satã,Madame Satã,2002,"Brazil, France",NA,7.1,2616,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0318462,I diari della motocicletta,Diarios de motocicleta,2004,"Argentina, USA, Chile, Peru, Brazil, UK, Germany, France",NA,7.8,95403,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25,8
+tt0318590,Cazuza: O Tempo Não Pára,Cazuza: O Tempo Não Pára,2004,Brazil,NA,6.9,3471,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt0322629,Houve uma Vez Dois Verões,Houve uma Vez Dois Verões,2002,Brazil,NA,7.1,698,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0327201,Il cuore criminale delle donne,As Três Marias,2002,"Brazil, Italy",NA,6,336,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0327205,Uma Onda No Ar,Uma Onda No Ar,2002,Brazil,NA,6.6,271,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0327451,Garotas do ABC,Garotas do ABC,2003,Brazil,NA,6.5,208,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,10
+tt0328316,Redentor,Redentor,2004,Brazil,BRL 6500000,6.8,925,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,96,5
+tt0330790,O Príncipe,O Príncipe,2002,Brazil,NA,6,112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0333074,Amarelo Manga,Amarelo Manga,2002,Brazil,NA,6.7,1944,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0334316,Seja o Que Deus Quiser!,Seja o Que Deus Quiser!,2002,Brazil,NA,5.7,184,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0334329,Separações,Separações,2002,Brazil,NA,7.1,176,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11,4
+tt0335054,2 Perdidos numa Noite Suja,2 Perdidos numa Noite Suja,2002,Brazil,BRL 176541,6.7,415,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0342097,Benjamim,Benjamim,2003,Brazil,NA,6.1,284,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0346681,Cama de Gato,Cama de Gato,2002,Brazil,BRL 11000,5.1,391,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0350804,Deus é Brasileiro,Deus é Brasileiro,2003,Brazil,NA,5.9,2282,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,10
+tt0351459,Os Normais: O Filme,Os Normais: O Filme,2003,Brazil,NA,6.7,2348,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0354087,Casseta & Planeta: A Taça do Mundo É Nossa,Casseta & Planeta: A Taça do Mundo É Nossa,2003,Brazil,NA,4.3,437,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0355809,Narradores de Javé,Narradores de Javé,2003,"Brazil, France",NA,7.3,712,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0356201,"Wood & Stock: Sexo, Orégano e Rock'n'Roll","Wood & Stock: Sexo, Orégano e Rock'n'Roll",2006,Brazil,NA,6.2,436,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10,3
+tt0356490,Cristina Quer Casar,Cristina Quer Casar,2003,Brazil,NA,6.1,133,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0359254,Familia rodante,Familia rodante,2004,"Argentina, Brazil, France, Germany, Spain, UK",NA,6.6,1114,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0362276,Vereda tropical,Vereda tropical,2004,"Argentina, Brazil",NA,4.8,171,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0362718,Hermanas,Hermanas,2005,"Argentina, Brazil, Spain",NA,6.4,272,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0367628,"Didi, o Cupido Trapalhão","Didi, o Cupido Trapalhão",2003,Brazil,NA,2.4,291,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11,4
+tt0367859,O Homem Que Copiava,O Homem Que Copiava,2003,Brazil,NA,7.6,9319,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0367975,Lisbela e o Prisioneiro,Lisbela e o Prisioneiro,2003,Brazil,NA,7.5,5602,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0371586,Vida de Menina,Vida de Menina,2003,Brazil,NA,6.7,162,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0371642,Dom,Dom,2003,Brazil,NA,5.2,275,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0373747,Casa de Areia,Casa de Areia,2005,Brazil,BRL 8000000,7.3,3059,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0373760,"Cinema, Aspirinas e Urubus","Cinema, Aspirinas e Urubus",2005,Brazil,NA,7.4,2488,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,96,5
+tt0376873,"Sexo, Amor e Traição","Sexo, Amor e Traição",2004,"Brazil, Mexico",$ 1000000,5.3,674,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0377747,De Passagem,De Passagem,2003,Brazil,NA,6.7,169,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0379199,O Caminho das Nuvens,O Caminho das Nuvens,2003,Brazil,NA,6.6,1087,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt0380165,Acquaria,Acquaria,2003,Brazil,BRL 7000000,3.1,383,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,96,5
+tt0380531,"Maria, la madre del figlio di Dio","Maria, Mãe do Filho de Deus",2003,Brazil,NA,4.2,172,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0382271,Rosario Tijeras,Rosario Tijeras,2005,"Colombia, Mexico, Spain, Brazil",NA,6.3,2242,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0383001,Tainá 2: A Aventura Continua,Tainá 2: A Aventura Continua,2004,Brazil,BRL 5800000,4.8,169,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,9,2
+tt0383373,Garrincha: Estrela Solitária,Garrincha: Estrela Solitária,2003,"Brazil, Chile",NA,5.1,236,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0384804,Mingri tianya,Mingri tianya,2003,"China, France, Brazil, South Korea, Hong Kong",NA,5.9,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,1
+tt0388489,Tudo Isto É Fado,Tudo Isto É Fado,2004,"Portugal, Brazil",$ 2100000,6,147,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0389377,O Signo do Caos,O Signo do Caos,2005,Brazil,NA,6.7,122,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0391726,Xuxa Abracadabra,Xuxa Abracadabra,2003,Brazil,NA,2.2,323,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,9,2
+tt0395947,Nel magico mondo di Gaya,Back to Gaya,2004,"Germany, Spain, UK, Brazil, USA",NA,5.2,1566,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,8,1
+tt0395978,Contra Todos,Contra Todos,2004,Brazil,NA,6.4,416,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0395994,A Dona da História,A Dona da História,2004,Brazil,NA,6.5,681,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0398838,A Cartomante,A Cartomante,2004,Brazil,NA,3.7,162,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0399412,Nina,Nina,2004,Brazil,BRL 2442740,6.6,893,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,97,6
+tt0399811,Um Show de Verão,Um Show de Verão,2004,Brazil,NA,2.4,153,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0402022,Æon Flux,Æon Flux,2005,"USA, Germany, Brazil, Italy",$ 62000000,5.5,122927,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,8,1
+tt0402417,O Outro Lado da Rua,O Outro Lado da Rua,2004,"Brazil, France",BRL 5200000,6.7,917,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,97,6
+tt0402505,Sólo Dios sabe,Sólo Dios sabe,2006,"Mexico, Brazil",NA,6.7,791,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,49,7
+tt0406383,Ódiquê?,Ódiquê?,2004,Brazil,NA,5.7,136,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0413451,O Vestido,O Vestido,2003,Brazil,NA,5.8,148,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0413460,Viva Voz,Viva Voz,2003,Brazil,NA,5.5,199,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0416979,Meu Tio Matou um Cara,Meu Tio Matou um Cara,2004,Brazil,NA,6.5,2525,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,3
+tt0418602,Turma da Mônica em Cinegibi: O Filme,Turma da Mônica em Cinegibi: O Filme,2004,Brazil,NA,5.9,191,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,10,3
+tt0419684,Didi Quer Ser Criança,Didi Quer Ser Criança,2004,Brazil,NA,2.7,276,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,2
+tt0422238,Filhas do Vento,Filhas do Vento,2004,Brazil,NA,6.2,105,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0423232,Sonhos de Peixe,Sonhos de Peixe,2006,"USA, Brazil, Russia",$ 1000000,6.5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0424374,Quase Dois Irmãos,Quase Dois Irmãos,2004,"Brazil, Chile, France",BRL 3000000,6.9,602,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0426097,O Veneno da Madrugada,O Veneno da Madrugada,2005,"Brazil, Argentina, Portugal",NA,5.8,153,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,13,9
+tt0427086,Como Fazer Um Filme de Amor,Como Fazer Um Filme de Amor,2004,Brazil,NA,5.7,137,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0429743,Romeo e Giulietta finalmente sposi,O Casamento de Romeu e Julieta,2005,Brazil,NA,6.2,982,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0431169,Jogo Subterrâneo,Jogo Subterrâneo,2005,Brazil,NA,6.8,281,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt0431615,Árido Movie,Árido Movie,2005,Brazil,BRL 1000000,6.8,498,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0432988,Não Por Acaso,Não Por Acaso,2007,Brazil,NA,7,740,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0438329,Noel: Poeta da Vila,Noel: Poeta da Vila,2006,Brazil,NA,6.8,258,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0438916,Irma Vap: O Retorno,Irma Vap: O Retorno,2006,Brazil,NA,4.6,201,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0439460,Bendito Fruto,Bendito Fruto,2004,Brazil,NA,6.3,131,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0439547,2 Filhos de Francisco: A História de Zezé di Camargo & Luciano,2 Filhos de Francisco: A História de Zezé di Camargo & Luciano,2005,Brazil,BRL 5900000,6.8,4783,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt0439801,Segurança Nacional,Segurança Nacional,2010,Brazil,BRL 3000000,3.5,268,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt0440175,Cabra-Cega,Cabra-Cega,2004,Brazil,NA,6.3,239,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0440270,O Diabo a Quatro,O Diabo a Quatro,2004,"Brazil, France, Portugal, Switzerland",NA,6.3,270,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0442751,Cafundó,Cafundó,2005,Brazil,NA,6.5,240,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt0445095,Xuxa e o Tesouro da Cidade Perdida,Xuxa e o Tesouro da Cidade Perdida,2004,Brazil,NA,2.4,263,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,10,3
+tt0448927,Se Eu Fosse Você,Se Eu Fosse Você,2006,Brazil,NA,6.1,4762,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0452744,Um Lobisomem na Amazônia,Um Lobisomem na Amazônia,2005,Brazil,NA,4.2,164,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,10,3
+tt0454879,Journey to the End of the Night,Journey to the End of the Night,2006,"USA, Germany, Brazil",$ 6200000,5.8,2443,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0456117,O Coronel e o Lobisomem,O Coronel e o Lobisomem,2005,Brazil,NA,5.9,670,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0456122,Os Desafinados,Os Desafinados,2008,Brazil,BRL 7000000,6.1,394,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,96,5
+tt0456899,Lower City,Cidade Baixa,2005,"Brazil, UK",NA,6.6,3615,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0457052,Mais Uma Vez Amor,Mais Uma Vez Amor,2005,Brazil,NA,5.6,139,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt0457076,A Máquina,A Máquina,2005,Brazil,NA,7.5,551,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0457123,Sal de Prata,Sal de Prata,2005,Brazil,NA,5.2,129,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0457182,Um Tiro no Escuro,Um Tiro no Escuro,2005,"Portugal, Brazil",EUR 1000000,6.3,350,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0458074,Quanto Vale Ou É Por Quilo?,Quanto Vale Ou É Por Quilo?,2005,Brazil,BRL 4000000,7.2,558,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0462230,Cobrador: In God We Trust,Cobrador: In God We Trust,2006,"Mexico, Spain, Argentina, France, Brazil, UK",NA,5.7,186,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0463311,Federal,Federal,2010,"Brazil, France, Colombia",EUR 2000000,3.2,386,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,97,6
+tt0469748,Corpo,Corpo,2007,Brazil,$ 700000,6.3,112,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,97,6
+tt0477164,Diário de Um Novo Mundo,Diário de Um Novo Mundo,2005,"Brazil, Portugal",NA,6.2,125,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0478525,Crimine Delicato,Crime Delicado,2005,Brazil,NA,6.1,310,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0478860,Embarque Imediato,Embarque Imediato,2009,Brazil,$ 1500000,4.6,102,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0478978,Batismo de Sangue,Batismo de Sangue,2006,Brazil,NA,7.1,631,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0481129,O Maior Amor do Mundo,O Maior Amor do Mundo,2006,Brazil,NA,6.5,247,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt0481254,Zuzu Angel,Zuzu Angel,2006,Brazil,NA,6.9,896,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt0482901,El baño del Papa,El baño del Papa,2007,"Uruguay, Brazil, France",NA,7.3,2610,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0485366,Brasília 18%,Brasília 18%,2006,Brazil,NA,4.9,168,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0485601,The Secret of Kells,The Secret of Kells,2009,"France, Belgium, Ireland, Netherlands, USA, Denmark, Brazil, Germany, Austria, Hungary",$ 8000000,7.6,30419,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,9,2
+tt0488515,Cleópatra,Cleópatra,2007,Brazil,NA,5.4,201,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt0489458,O Cheiro do Ralo,O Cheiro do Ralo,2006,Brazil,BRL 300000,7.4,4595,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0489772,Muito Gelo e Dois Dedos D'Água,Muito Gelo e Dois Dedos D'Água,2006,Brazil,NA,5.8,417,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0492869,Antônia,Antônia,2006,Brazil,NA,6.4,390,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,96,5
+tt0492950,A Concepção,A Concepção,2005,Brazil,NA,5.5,314,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0492967,Eu Me Lembro,Eu Me Lembro,2005,Brazil,NA,6,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0495033,Gatão de Meia Idade,Gatão de Meia Idade,2006,Brazil,NA,4.5,105,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0496595,Xuxinha e Guto Contra os Monstros do Espaço,Xuxinha e Guto Contra os Monstros do Espaço,2005,Brazil,NA,1.8,466,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,9,2
+tt0497900,"Didi, o Caçador de Tesouros","Didi, o Caçador de Tesouros",2006,Brazil,NA,2.8,162,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,9,2
+tt0765469,Il passato,El pasado,2007,"Argentina, Brazil",NA,6.2,2124,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt0768177,Podecrer!,Podecrer!,2007,Brazil,NA,6.3,195,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0768187,Eu e Meu Guarda-Chuva,Eu e Meu Guarda-Chuva,2010,Brazil,NA,5.9,116,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,9,2
+tt0793413,Aguasaltas.com - Un Villaggio Nella Rete,Dot.com,2007,"Portugal, Brazil",NA,6.5,621,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0796245,Boleiros 2: Vencedores e Vencidos,Boleiros 2: Vencedores e Vencidos,2006,Brazil,BRL 2000000,6.2,105,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,3
+tt0798732,Polaróides Urbanas,Polaróides Urbanas,2008,Brazil,NA,5.4,167,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0803029,Linha de Passe,Linha de Passe,2008,Brazil,NA,7.2,2651,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,96,5
+tt0807702,Achados e Perdidos,Achados e Perdidos,2007,Brazil,NA,5.8,167,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt0808266,Fica Comigo Esta Noite,Fica Comigo Esta Noite,2006,Brazil,NA,6.4,261,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0810096,Tapete Vermelho,Tapete Vermelho,2005,Brazil,NA,7.1,322,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0826110,O Mistério da Estrada de Sintra,O Mistério da Estrada de Sintra,2007,"Portugal, Brazil",NA,7,400,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,8,1
+tt0827778,Primo Basílio,Primo Basílio,2007,Brazil,NA,5.8,507,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt0831904,Casa da Mãe Joana,Casa da Mãe Joana,2008,Brazil,NA,5.1,357,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0834944,Quarta B,Quarta B,2005,Brazil,BRL 30000,6.2,156,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0841175,O Céu de Suely,O Céu de Suely,2006,"Brazil, Germany, Portugal, France",NA,7.2,1555,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0842675,Carmo,Carmo,2008,"Spain, Brazil, Poland",NA,5.6,186,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,49,7
+tt0846109,Trair e Coçar é Só Começar,Trair e Coçar é Só Começar,2006,Brazil,NA,6.3,417,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0847154,Anjos do Sol,Anjos do Sol,2006,Brazil,BRL 1500000,7.1,933,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0848596,Mutum,Mutum,2007,"Brazil, France",BRL 4000000,7,474,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0854161,Seus Problemas Acabaram!!!,Seus Problemas Acabaram!!!,2006,Brazil,NA,4.2,180,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0857177,O Magnata,O Magnata,2007,Brazil,NA,4.6,305,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0857355,L'anno in cui i miei genitori andarono in vacanza,O Ano em Que Meus Pais Saíram de Férias,2006,Brazil,BRL 3000000,7.4,5947,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0861689,Blindness - Cecità,Blindness,2008,"Brazil, Canada, Japan, UK, Italy",$ 25000000,6.6,69432,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,96,5
+tt0861739,Tropa de elite - Gli squadroni della morte,Tropa de Elite,2007,"Brazil, USA, Argentina",$ 4000000,8.1,96460,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0870090,Cidade dos Homens,Cidade dos Homens,2007,Brazil,NA,7.2,14948,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt0871896,Turma da Mônica em uma Aventura no Tempo,Turma da Mônica em uma Aventura no Tempo,2007,Brazil,NA,6.7,274,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,10,3
+tt0877323,Os 12 Trabalhos,Os 12 Trabalhos,2006,Brazil,NA,6.8,217,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0882782,Sem Controle,Sem Controle,2007,Brazil,NA,6.8,154,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,97,6
+tt0882820,Nome Próprio,Nome Próprio,2007,Brazil,NA,6.3,403,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0884177,Romance,Romance,2008,Brazil,NA,7,594,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt0895777,"Ó Paí, Ó","Ó Paí, Ó",2007,Brazil,NA,6.2,1556,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,3
+tt0907134,"Saneamento Básico, O Filme","Saneamento Básico, O Filme",2007,Brazil,NA,7.3,2115,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0920452,Ainda Orangotangos,Ainda Orangotangos,2007,Brazil,NA,6.8,163,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt0923683,Encarnação do Demônio,Encarnação do Demônio,2008,Brazil,NA,6,1505,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,1
+tt0931353,Sexo com Amor?,Sexo com Amor?,2008,Brazil,NA,4.6,243,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0933033,O Homem Que Desafiou o Diabo,O Homem Que Desafiou o Diabo,2007,Brazil,NA,6.6,726,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,10,3
+tt0936504,Xuxa Gêmeas,Xuxa Gêmeas,2006,Brazil,NA,2.1,268,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,2
+tt0945383,Querô,Querô,2007,Brazil,NA,6.8,236,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0972378,A Guerra dos Rocha,A Guerra dos Rocha,2008,Brazil,NA,4.4,206,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0977637,Arte de Roubar,Arte de Roubar,2008,"Portugal, Brazil, Spain",EUR 2000000,6.3,1036,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0977642,Chega de Saudade,Chega de Saudade,2007,Brazil,NA,7,442,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,49,7
+tt0982849,Baixio das Bestas,Baixio das Bestas,2006,Brazil,NA,6.3,1003,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0984175,A Casa de Alice,A Casa de Alice,2007,Brazil,NA,6.9,602,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt0989007,Jean Charles,Jean Charles,2009,"UK, Brazil",NA,6.3,1136,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt0990366,A Grande Família: O Filme,A Grande Família: O Filme,2007,Brazil,NA,5.6,696,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt0997039,Caixa Dois,Caixa Dois,2007,Brazil,NA,6,366,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1002459,Proibido Proibir,Proibido Proibir,2006,"Brazil, Chile, Spain",NA,7,573,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1016321,A deriva,À Deriva,2009,Brazil,NA,6.8,2751,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1018706,Cão Sem Dono,Cão Sem Dono,2007,Brazil,NA,6.9,413,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1018710,Deserto Feliz,Deserto Feliz,2007,"Brazil, Germany",NA,6.2,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1022606,Leonera,Leonera,2008,"Argentina, South Korea, Brazil, Spain",NA,7,2923,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1039960,Estômago,Estômago,2007,"Brazil, Italy",BRL 800000,7.8,5146,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1043835,Call Girl,Call Girl,2007,"Portugal, Brazil",EUR 1300000,6.2,2211,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1047445,Big Game,Big Game,2008,"Brazil, USA",NA,4.1,279,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,97,6
+tt1054119,Dang kou,Dang kou,2008,"Brazil, China, Hong Kong, Japan",NA,4.6,353,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt1054674,BirdWatchers - La terra degli uomini rossi,BirdWatchers - La terra degli uomini rossi,2008,"Italy, Brazil",NA,6.8,824,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1054677,Le migliori cose del mondo,As Melhores Coisas do Mundo,2010,Brazil,NA,7.2,1482,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1058027,A Via Láctea,A Via Láctea,2007,Brazil,NA,5.8,249,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1059921,Falsa Loura,Falsa Loura,2007,Brazil,NA,6.4,332,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1068650,Inesquecível,Inesquecível,2007,Brazil,NA,5,128,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1068962,Quincas Berro d'Água,Quincas Berro d'Água,2010,Brazil,NA,6.4,483,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1071211,Elvis & Madona,Elvis & Madona,2010,Brazil,NA,6.3,200,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt1075642,Beyond the Grave,Beyond the Grave,2010,Brazil,NA,4.3,198,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,8,1
+tt1090359,Valsa para Bruno Stein,Valsa para Bruno Stein,2007,Brazil,NA,5.9,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1092016,Meu Nome Não é Johnny,Meu Nome Não é Johnny,2008,Brazil,BRL 6000000,7.2,6461,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1099227,Se Eu Fosse Você 2,Se Eu Fosse Você 2,2009,Brazil,NA,5.6,2774,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1111895,Entre os Dedos,Entre os Dedos,2008,"Portugal, Brazil",NA,6.1,113,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1116944,"Maré, Nossa História de Amor","Maré, Nossa História de Amor",2007,"Brazil, France, Uruguay",BRL 3900000,5.5,206,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,96,5
+tt1119162,O Signo da Cidade,O Signo da Cidade,2007,Brazil,BRL 3080000,6.1,229,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1134860,É Proibido Fumar,É Proibido Fumar,2009,Brazil,NA,6.7,519,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt1136609,A Festa da Menina Morta,A Festa da Menina Morta,2008,"Brazil, Argentina, Portugal",NA,6.1,395,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1146300,Xuxa em Sonho de Menina,Xuxa em Sonho de Menina,2007,Brazil,NA,1.8,162,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,2
+tt1149597,A Mulher do meu Amigo,A Mulher do meu Amigo,2008,Brazil,NA,5,127,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1174691,Era Uma Vez...,Era Uma Vez...,2008,Brazil,NA,7.1,1170,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt1180300,Budapest,Budapest,2009,"Hungary, Brazil, Portugal",EUR 2300000,6,495,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt1186357,Lope,Lope,2010,"Spain, Brazil, France",NA,6,1006,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt1205004,Quanto Dura o Amor?,Quanto Dura o Amor?,2009,Brazil,NA,6.3,139,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt1205903,Bellini e o Demônio,Bellini e o Demônio,2008,Brazil,$ 500000,4.3,112,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,1
+tt1219703,Nossa Vida Não Cabe Num Opala,Nossa Vida Não Cabe Num Opala,2008,Brazil,NA,5.4,133,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1223932,Tempos de Paz,Tempos de Paz,2009,Brazil,NA,7,527,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1223975,Tony Manero,Tony Manero,2008,"Chile, Brazil",NA,6.8,3617,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1234559,Chico Xavier,Chico Xavier,2010,Brazil,NA,7.1,1678,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt1235548,VIPs,VIPs,2010,"Brazil, USA",NA,6.6,2976,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt1236397,A Mulher Invisível,A Mulher Invisível,2009,Brazil,NA,6.3,3357,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1248882,O Guerreiro Didi e a Ninja Lili,O Guerreiro Didi e a Ninja Lili,2008,Brazil,$ 3000000,2.5,131,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1252516,Rosa Morena,Rosa Morena,2010,"Denmark, Brazil",NA,6.2,239,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1252605,Hotel Atlântico,Hotel Atlântico,2009,Brazil,NA,6.4,121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1264083,Feliz Natal,Feliz Natal,2008,Brazil,NA,6.4,377,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1270631,A Erva do Rato,A Erva do Rato,2008,Brazil,NA,6.1,245,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1278336,Divã,Divã,2009,Brazil,NA,6.4,733,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1280567,Última Parada 174,Última Parada 174,2008,"Brazil, France",NA,7.1,4818,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1282153,Lo strano caso di Angelica,O Estranho Caso de Angélica,2010,"Portugal, Spain, France, Brazil",EUR 2000000,6.3,1741,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,96,5
+tt1288641,Entre Lençóis,Entre Lençóis,2008,Brazil,BRL 5000000,5.2,410,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt1290389,Bezerra de Menezes: O Diário de um Espírito,Bezerra de Menezes: O Diário de um Espírito,2008,Brazil,BRL 2500000,5.3,216,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,25,8
+tt1319695,"31 minutos, la película","31 minutos, la película",2008,"Chile, Brazil, Spain",NA,6.8,450,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,10,3
+tt1322266,América,América,2010,"Russia, Brazil, Spain, Portugal",EUR 1400000,6.2,188,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1322277,Besouro,Besouro,2009,Brazil,NA,5.8,1563,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt1329396,Mangue Negro,Mangue Negro,2008,Brazil,NA,5.6,369,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,1
+tt1330048,Se Nada Mais Der Certo,Se Nada Mais Der Certo,2008,Brazil,NA,7.1,254,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1334026,O Menino da Porteira,O Menino da Porteira,2009,Brazil,NA,5.5,461,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,96,5
+tt1341166,FilmeFobia,FilmeFobia,2008,Brazil,BRL 1600400,5.2,118,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,96,5
+tt1372685,Il cantastorie,O Contador de Histórias,2009,Brazil,NA,7.4,582,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1392261,Verônica,Verônica,2008,Brazil,NA,6.5,335,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1410297,O Bem Amado,O Bem Amado,2010,Brazil,NA,6.4,539,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1424746,Apenas o Fim,Apenas o Fim,2008,Brazil,NA,6.9,840,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt1429432,Rio Sex Comedy,Rio Sex Comedy,2010,"France, Brazil",EUR 5000000,4.8,663,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1442576,"Lula, o Filho do Brasil","Lula, o Filho do Brasil",2009,"Brazil, Argentina",NA,4.2,2221,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,8
+tt1442578,Reflexões de um Liquidificador,Reflexões de um Liquidificador,2010,Brazil,NA,7.1,519,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1465474,Antes Que o Mundo Acabe,Antes Que o Mundo Acabe,2009,Brazil,BRL 1500000,6.9,291,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1467388,Nosso Lar,Nosso Lar,2010,Brazil,$ 12000000,6.4,2738,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,96,5
+tt1483795,Os Famosos e os Duendes da Morte,Os Famosos e os Duendes da Morte,2009,"Brazil, France",NA,6.8,679,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1500720,Insolação,Insolação,2009,Brazil,NA,5.6,132,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1500761,"Viajo Porque Preciso, Volto Porque te Amo","Viajo Porque Preciso, Volto Porque te Amo",2009,Brazil,NA,7.3,735,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1504688,Os Normais 2: A Noite Mais Maluca de Todas,Os Normais 2: A Noite Mais Maluca de Todas,2009,Brazil,NA,5.8,1098,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1511537,Em Teu Nome,Em Teu Nome,2009,Brazil,NA,6.2,148,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1513914,Sonhos Roubados,Sonhos Roubados,2009,Brazil,NA,6.2,469,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1522189,Natimorto,Natimorto,2009,Brazil,NA,6.7,149,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1522232,Os Inquilinos,Os Inquilinos,2009,Brazil,NA,6.6,198,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1526306,Salve Geral,Salve Geral,2009,Brazil,BRL 9000000,6.3,467,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1544592,Por el camino,Por el camino,2010,"Uruguay, Brazil",NA,6.8,216,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,7
+tt1549779,Embargo,Embargo,2010,"Portugal, Spain, Brazil",EUR 300000,5.5,394,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1552436,Olhos Azuis,Olhos Azuis,2009,Brazil,NA,7,480,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1555149,Tropa de elite 2 - Il nemico ora è un altro,Tropa de Elite 2: O Inimigo Agora é Outro,2010,Brazil,NA,8,78166,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1564916,De Pernas pro Ar,De Pernas pro Ar,2010,Brazil,NA,5.7,2160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1576703,Xuxa em O Mistério de Feiurinha,Xuxa em O Mistério de Feiurinha,2009,Brazil,NA,2.3,283,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,2
+tt1609123,Histórias de Amor Duram Apenas 90 Minutos,Histórias de Amor Duram Apenas 90 Minutos,2009,Brazil,NA,6.5,493,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+tt1646956,"5x Favela, Agora por Nós Mesmos","5x Favela, Agora por Nós Mesmos",2010,Brazil,NA,6.7,245,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1650394,Cabeça a Prêmio,Cabeça a Prêmio,2009,Brazil,NA,5.7,123,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1667333,Riscado,Riscado,2010,Brazil,NA,6.9,104,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1679538,Bróder,Bróder,2010,Brazil,$ 1800000,6.6,334,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1708133,García,García,2010,"Colombia, Brazil",$ 1000000,6.3,164,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+tt1720038,A Suprema Felicidade,A Suprema Felicidade,2010,Brazil,NA,5.1,276,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1735853,Como Esquecer,Como Esquecer,2010,Brazil,NA,6.2,427,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5
+tt1781755,400 Contra 1: Uma História do Crime Organizado,400 Contra 1: Uma História do Crime Organizado,2010,Brazil,BRL 4800000,5.4,462,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt1781853,Malu de Bicicleta,Malu de Bicicleta,2010,Brazil,BRL 1300000,6.3,225,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+tt1781866,Muita Calma Nessa Hora,Muita Calma Nessa Hora,2010,Brazil,BRL 2000000,5.3,1062,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+tt1810574,Desenrola,Desenrola,2010,Brazil,BRL 3000000,6.1,275,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,2
+tt1827372,Boca do Lixo,Boca do Lixo,2010,Brazil,NA,5.7,645,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13,9
+tt3359366,Hermanoteu na Terra de Godah,Hermanoteu na Terra de Godah,2009,Brazil,NA,7.8,102,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,3
+tt6112220,Vidas Em Paralelo,Vidas Em Paralelo,2010,"USA, Brazil",$ 3000000,7,104,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
