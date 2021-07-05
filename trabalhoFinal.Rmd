@@ -1,0 +1,269 @@
+---
+title: "Conteúdos de cada cluster"
+author: ""
+date: ""
+output: html_document
+---
+
+```{r ajusta_chunks, echo = F}
+
+library(knitr)
+
+opts_chunk$set(echo = F)
+
+opts_chunk$set(warning = F)
+
+opts_chunk$set(include = F)
+
+opts_chunk$set(message = F)
+```
+
+```{r setup}
+library(tidyverse)
+library(cluster)
+library(ggplot2movies)
+library(factoextra)
+library(monoClust)
+```
+
+
+```{r}
+
+ratings = read_csv("IMDb ratings.csv")
+movies = read_csv("IMDb movies.csv")  %>% 
+  inner_join(ratings, by = "imdb_title_id")
+
+
+
+movies.trat = movies %>% 
+  select(imdb_title_id,
+         title,
+         original_title,
+         year,
+         genre,
+         country,
+         budget,
+         avg_vote,
+         votes) %>% 
+  filter(str_detect(country, "Brazil"),
+         votes >= 100,
+         #!is.na(budget),
+         year >= 2000,
+         year <= 2010) %>% 
+  separate(genre, 
+           into = c(paste0("C",1:20)),
+           sep = ", ") %>%
+  pivot_longer(cols = c(paste0("C",1:20)), 
+               names_to = "plips", 
+               values_to = "genre") %>% 
+  filter(!is.na(genre)) %>% 
+  mutate(genre_temp = 1) %>% 
+  select(-plips) %>% 
+  pivot_wider(names_from = genre,
+              values_from = genre_temp,
+              values_fill = 0)
+
+
+
+
+t.gens = movies.trat %>% 
+  pivot_longer(cols = c("Comedy":"Sport"),
+               names_to = "Gênero",
+               values_to = "Presenca") %>% 
+  group_by(`Gênero`) %>% 
+  summarise(`Qtd. de Filmes` = sum(Presenca)) %>% 
+  arrange(desc(`Qtd. de Filmes`))
+
+
+bind_cols(t.gens[ 1:10,],
+          t.gens[11:20,]) %>% xtable::xtable()
+
+
+movies.trat %>% 
+  pivot_longer(cols = c("Comedy":"Sport"),
+               names_to = "Gênero",
+               values_to = "Presenca") %>% 
+  group_by(imdb_title_id,title) %>% 
+  summarise(n = sum(Presenca)) %>% 
+  arrange(desc(n))
+```
+
+
+```{r}
+movies.df.num = movies.trat %>% 
+  select(original_title,Comedy:Sport) %>% 
+  data.frame(row.names = "original_title")
+
+
+
+
+# cp.table <- cv.test(movies.df.num, fold = 5, minnodes = 1, maxnodes = 20)
+# cp.table
+# ggcv(cp.table,
+#      title = "",
+#      xlab = "Número de clusteres",
+#      ylab = "EQM +/- 1 E.P.") +
+#   geom_hline(aes(yintercept = min(lower1SD)), color = "blue", linetype = 2) +
+#   geom_hline(aes(yintercept = min(upper1SD)), color = "blue", linetype = 2) +
+#   geom_point(aes(x = ncluster[10], y = MSE[10]), color = "red", size = 2) +
+#   geom_point(aes(x = ncluster[10], y = MSE[10]), color = "red", size = 5, shape = 4) +
+#   theme_minimal()
+
+
+
+modelo3 = MonoClust(movies.df.num, nclusters = 10)
+
+#modelo3.perm = perm.test(modelo3, data = movies.df.num, method = "sw", rep = 1000)
+
+plot(modelo3, 
+     branch = .5, 
+     margin = c(.1,.1,.1,.1), 
+     abbrev = "no")
+
+
+
+#plot(cp.table)
+ 
+ 
+movies.cls = movies.trat %>% 
+  mutate(cluster = modelo3$membership)
+  
+clusters = c(10,1,2,3,4,9,8,7,5,6)
+depara = movies.cls %>% group_by(cluster) %>% 
+  count() %>% ungroup() %>% 
+  mutate(cluster2 = clusters) %>% 
+  select(-n)
+
+movies.cls = movies.cls %>% 
+  left_join(depara, by = "cluster")
+
+gens.tree = c("Drama","Comedy","Family",
+              "Romance","Crime","Biography", "Thriller")
+
+g.cls.falts = movies.cls %>% pivot_longer(cols = c("Comedy":"Sport"),
+               names_to = "Gênero",
+               values_to = "Presenca") %>% 
+  group_by(cluster2, `Gênero`) %>% 
+  summarise(qtd = sum(Presenca)) %>% 
+  filter(qtd != 0,
+         !(`Gênero` %in% gens.tree)) %>% 
+  ungroup() %>% 
+  arrange(`cluster2`,-qtd) %>%
+  ggplot(aes(x = `Gênero`, y = qtd)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  facet_wrap(~paste("Cluster",cluster2)) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = .5))
+
+
+g.prep = movies.cls %>% pivot_longer(cols = c("Comedy":"Sport"),
+               names_to = "Gênero",
+               values_to = "Presenca") %>% 
+  group_by(cluster2, `Gênero`) %>% 
+  summarise(qtd = sum(Presenca)) %>% 
+  filter(qtd != 0) %>% 
+  ungroup() %>% 
+  group_by(cluster2) %>% 
+  mutate(perc = qtd/sum(qtd)) %>% 
+  mutate(genre.abv = abbreviate(`Gênero`)) 
+
+
+gg.dist.cls = function(cluster) {
+  g.prep %>% 
+    filter(cluster2 == cluster) %>% 
+    ggplot(aes(x = reorder(`Gênero`,perc), y = perc)) +
+    geom_bar(stat = "identity") +
+    labs(y = "", x = "") +
+    scale_y_continuous(labels = scales::percent) +
+    theme_minimal()
+  
+}
+
+list.cls = function(cls) {
+  movies.cls %>% 
+    filter(cluster2 == cls) %>% 
+    select(`Filme` = original_title) %>% 
+    arrange(`Filme`) 
+}
+
+gg.dist.cls(1)
+list.cls(1)
+
+```
+
+```{r eval = F}
+movies.cls %>% write_csv("movies_me714.csv")
+```
+
+
+
+# Cluster 1
+
+```{r include = T}
+gg.dist.cls(1)
+list.cls(1) %>% kable()
+```
+
+# Cluster 2
+
+```{r include = T}
+gg.dist.cls(2)
+list.cls(2) %>% kable()
+```
+
+# Cluster 3
+
+```{r include = T}
+gg.dist.cls(3)
+list.cls(3) %>% kable()
+```
+
+# Cluster 4
+
+```{r include = T}
+gg.dist.cls(4)
+list.cls(4) %>% kable()
+```
+
+# Cluster 5
+
+```{r include = T}
+gg.dist.cls(5)
+list.cls(5) %>% kable()
+```
+
+# Cluster 6
+
+```{r include = T}
+gg.dist.cls(6)
+list.cls(6) %>% kable()
+```
+
+# Cluster 7
+
+```{r include = T}
+gg.dist.cls(7)
+list.cls(7) %>% kable()
+```
+
+# Cluster 8
+
+```{r include = T}
+gg.dist.cls(8)
+list.cls(8) %>% kable()
+```
+
+# Cluster 9
+
+```{r include = T}
+gg.dist.cls(9)
+list.cls(9) %>% kable()
+```
+
+# Cluster 10
+
+```{r include = T}
+gg.dist.cls(10)
+list.cls(10) %>% kable()
+```
+
